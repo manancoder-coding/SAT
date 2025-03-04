@@ -1,1 +1,7 @@
 pymupdf
+streamlit
+openai
+pymupdf
+langchain
+tiktoken
+
